@@ -22,12 +22,6 @@ Please see the [changelog](CHANGELOG.md) to learn about breaking changes that we
 
 Thanks to the following companies, organizations, and individuals for supporting the ongoing maintenance and development of gray-matter! [Become a Sponsor](https://github.com/sponsors/jonschlinkert) to add your logo to this README, or any of [my other projects](https://github.com/jonschlinkert?tab=repositories&q=&type=&language=&sort=stargazers)
 
-## Gold Sponsors
-
-| [<img src="https://github.com/jonschlinkert/gray-matter/assets/383994/12afc199-d1c3-450b-a75d-c5456c8201dc" alt="https://jaake.tech/" width="100"/>](https://jaake.tech/) |
-|:---:|
-| [https://jaake.tech/](https://jaake.tech/) |
-
 <br />
 
 ## What does this do?
